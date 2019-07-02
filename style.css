@@ -1,0 +1,73 @@
+body{
+    background:gray;
+    margin: 0px;
+}
+.main-header h1{
+    margin: 0px;
+    width:600px;
+    margin: auto;
+
+}
+.header{
+    background:white;
+    width:100%;
+    height:5%;
+    margin-top: 30px;
+
+    /* padding:10px; */
+}
+.main-header{
+    height: 60px;
+    background: white;
+    padding-top: 15px;
+    margin: auto;
+
+}
+
+.post-One{
+    background:white;
+    width:600px;
+    margin:auto;
+}
+
+.date{
+   float: right;
+   text-align: right;
+   color:gray
+
+}
+.header-left{
+    float: left;
+}
+.header div{
+    width: 50%;
+}
+
+.image img {
+    width: 100%;
+}
+
+.paragraph{
+    background:white;
+    width:600px;
+    margin-top: 0px;
+}
+
+.paragraph p{
+    margin-top: 0px;
+}
+.image{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.header-left h3{
+    margin-left:10px;
+}
+.date p{
+    margin-right: 10px;
+    padding-top: 2px;
+}
+
+.paragraph p{
+    padding-left:10px;
+}
